@@ -77,3 +77,7 @@ Run terraform apply again if there are infrastructure changes.
 
 Sample is putup here Input Output 
 https://medium.com/@vikas.comau/sample-application-aws-lambda-api-gateway-and-aws-s3-f14b2498152f
+
+We can simply hit the url for deployed lambda with api gateway in browser for response for example city london
+
+https://khkrzcu935.execute-api.ap-southeast-2.amazonaws.com/dev/weather/london
