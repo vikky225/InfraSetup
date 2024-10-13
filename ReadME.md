@@ -13,7 +13,7 @@ This project consists of an AWS Lambda function implemented in TypeScript and ma
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (version X.X.X or later)
+- [Node.js](https://nodejs.org/) (version 18.x or later)
 - [AWS CLI](https://aws.amazon.com/cli/)
 - [Terraform](https://www.terraform.io/downloads.html)
 
