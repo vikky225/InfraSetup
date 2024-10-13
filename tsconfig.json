@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es6",                // Set the JavaScript version to compile to
+      "module": "commonjs",           // Use CommonJS for Node.js compatibility
+      "outDir": "./dist",             // Output directory for compiled files
+      "rootDir": "./lambda",             // Your source directory
+      "strict": true                   // Enable strict type-checking options
+    },
+    "include": [
+      "lambda/**/*.ts"                   // Include all TypeScript files in the src directory
+    ]
+  }
+  
